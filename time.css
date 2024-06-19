@@ -1,0 +1,58 @@
+header{
+    font-size: 45px;
+    background-color: rgb(206, 92, 72);
+    color: rgb(233, 30, 30);
+    padding: 155px;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 2px solid grey;
+}
+
+body{
+    background-color: #b91313 ;
+    font-style: oblique;
+}
+
+    .Times{ 
+        width: 980px;
+        margin: 0 auto;
+        padding: 50px 0;
+        
+
+}
+
+.Times li{
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    vertical-align: middle;
+    margin: 0 2% auto;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 20px;
+    
+
+
+
+}
+
+li img{
+    width: 50%;
+}
+
+.Times li:hover{
+    border:8px solid #c78c19 ;
+}
+
+.time-descricao {
+    font-size: 12px;
+}
+nav a:hover{
+    color: #534f48;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+footer{
+    border-top: 3px solid grey;
+}
